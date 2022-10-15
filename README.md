@@ -1,1 +1,1 @@
-# javascript
+# 모던 javascript 공부
