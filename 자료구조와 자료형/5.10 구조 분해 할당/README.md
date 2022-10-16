@@ -1,6 +1,9 @@
 구조 분해 할당
 =============
 
+⚠️ [전개 구문 참조](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+
+
 > 배열 분해하기
 
 ```javascript
